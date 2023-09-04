@@ -1,2 +1,2 @@
-# Projeto Desafio Picpay Backend
-Projeto destinado a resolver um desafio técnico do PicPay para backend
+# Projeto transação bancaria API
+Projeto destinado a construir uma API para transação bancaria com SpringBoot
